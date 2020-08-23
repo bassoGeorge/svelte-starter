@@ -1,1 +1,1 @@
-# Webpack 4 Starter
+# Svelte starter with Webpack

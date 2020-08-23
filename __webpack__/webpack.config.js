@@ -9,7 +9,8 @@ module.exports = ({mode = 'production', presets = [], ...rest} = {}) => {
 	const corePresets = [
 		"html",
 		"es6",
-		"css"
+		"css",
+		"svelte"
 	]
 
 	// if only one preset is there, it is parsed as string, otherwise array. We convert to array here
